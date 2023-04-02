@@ -1,16 +1,19 @@
-### Hi there 👋
+### Gaétan "Gad" Jalin
+---
 
-<!--
-**AarnoldGad/AarnoldGad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*"...Do you ever take the time to design you systems, or does it come naturally ?"*
 
-Here are some ideas to get you started:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Well, usually, astrophysicists have the reputation of coding like pigs..."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🪐 French astronomer, studying in Sweden,<br/>
+I believe in a world where code can be both efficient and expressive.
+
+☕ I develop mainly in C++, but also in Python and Fortran. <br/> 
+I like low level, electronic, and consuming too much caffeine.
+
+🖥 I spend my free time working on my own utility library and game engine, <br/>
+learning shader development and computer graphics techniques.
+
+*G. Jalin*
