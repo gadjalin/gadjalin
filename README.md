@@ -16,4 +16,9 @@ I like low level, electronic, and consuming too much caffeine.
 🖥 I spend my free time working on my own utility library and game engine, <br/>
 learning shader development and computer graphics techniques.
 
+.&nbsp;o&nbsp;.<br/>
+.&nbsp;.&nbsp;o<br/>
+ooo<br/>
+
+
 *G. Jalin*
