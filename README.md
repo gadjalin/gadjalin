@@ -1,4 +1,4 @@
-### Gaétan "Gad" Jalin
+### Gaétan J.A.M. Jalin
 ---
 
 *"...Do you ever take the time to design you systems, or does it come naturally ?"*
@@ -7,11 +7,11 @@
 
 ---
 
-🪐 French astronomer, studying in Sweden,<br/>
+🪐 French astrophysicist, studying in Sweden,<br/>
 I believe in a world where code can be both efficient and expressive.
 
-☕ I develop mainly in C++, but also in Python and Fortran. <br/> 
-I like low level, electronic, and consuming too much caffeine.
+☕ I develop mainly in C++, but I'm starting to love Fortran. <br/> 
+I like learning low level stuff, electronics, and consuming too much caffeine.
 
 🖥 I spend my free time working on my own utility library and game engine, <br/>
 learning shader development and computer graphics techniques.
