@@ -8,13 +8,13 @@
 ---
 
 🪐 French astrophysicist, studying in Sweden,<br/>
-I believe in a world where code can be both efficient and expressive.
+I simulate Core-Collapse Supernovae on big computers.
 
-☕ I develop mainly in C++, but I'm starting to love Fortran. <br/> 
+☕ I develop mainly in C++, Fortran and Python. <br/> 
 I like learning low level stuff, electronics, and consuming too much caffeine.
 
 🖥 I spend my free time working on my own utility library and game engine, <br/>
-learning shader development and computer graphics techniques.
+learning computer graphics and numerical methods.
 
 .&nbsp;o&nbsp;.<br/>
 .&nbsp;.&nbsp;o<br/>
