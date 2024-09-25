@@ -7,11 +7,11 @@
 
 ---
 
-🪐 French astrophysicist, studying in Sweden,<br/>
+🪐 French astrophysicist, studied in Sweden, working in Germany<br/>
 I simulate Core-Collapse Supernovae on big computers.
 
 ☕ I develop mainly in C++, Fortran and Python. <br/> 
-I like learning low level stuff, electronics, and consuming too much caffeine.
+I like learning low level stuff, electronics, and drinking espresso.
 
 🖥 I spend my free time working on my own utility library and game engine, <br/>
 learning computer graphics and numerical methods.
